@@ -1,0 +1,635 @@
+﻿<!DOCTYPE html>
+<html manifest="offline.appcache">
+<head>
+    <meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<title>BoBoiBoy Galaxy Run</title>
+	
+	<!-- Standardised web app manifest -->
+	<link rel="manifest" href="appmanifest.json" />
+	
+	<!-- Allow fullscreen mode on iOS devices. (These are Apple specific meta tags.) -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+	<link type="image/x-icon" href="icon-128.png" rel="shortcut icon" />
+	<link rel="apple-touch-icon" sizes="256x256" href="icon-256.png" />
+	<meta name="HandheldFriendly" content="true" />
+	<meta property="og:image" content="icon-256.png">
+	<!-- Chrome for Android web app tags -->
+	<meta name="mobile-web-app-capable" content="yes" />
+	<link rel="shortcut icon" sizes="256x256" href="icon-256.png" />
+
+    <!-- All margins and padding must be zero for the canvas to fill the screen. -->
+	<style type="text/css">
+		* {
+			padding: 0;
+			margin: 0;
+		}
+		html, body {
+			background: #000;
+			color: #fff;
+			overflow: hidden;
+			touch-action: none;
+			-ms-touch-action: none;
+		}
+				
+		body {
+			overscroll-behavior-y: none;
+		}
+		
+
+		canvas {
+			touch-action-delay: none;
+			touch-action: none;
+			-ms-touch-action: none;
+			-webkit-transform: translateZ(0);
+			-moz-transform: translateZ(0);
+			-ms-transform: translateZ(0);
+			-o-transform: translateZ(0);
+			transform: translateZ(0);
+		}
+				
+		.noscroll{
+			position:fixed;
+			z-index:1000;
+			top:0;
+			left:0;
+			width:100%;
+			background: blue;
+			right:0;
+			color:#fff;
+			padding:0
+		}
+		
+
+    </style>
+		<script type='text/javascript'>
+			window.adsState = 0;
+			window["GD_OPTIONS"] = {
+						"gameId": "d9ce5ae8935c48229e8f2f2b299758e5",
+						"onEvent": function(event) {
+								window.dispatchEvent(new CustomEvent(event.name, {}));
+								switch (event.name) {
+										case "SDK_GAME_START":
+												window.focus();
+												window.adsState = 2;
+												// advertisement done, resume game logic and unmute audio
+												break;
+										case "SDK_GAME_PAUSE":
+												// pause game logic / mute audio
+												break;
+										case "SDK_GDPR_TRACKING":
+												// this event is triggered when your user doesn't want to be tracked
+												break;
+										case "SDK_GDPR_TARGETING":
+												// this event is triggered when your user doesn't want personalised targeting of ads and such
+												break;
+										case "SDK_REWARDED_WATCH_COMPLETE":
+												// this event is triggered when your user completely watched rewarded ad
+												break;
+								}
+						},
+				};
+				(function(d, s, id) {
+						var js, fjs = d.getElementsByTagName(s)[0];
+						if (d.getElementById(id)) return;
+						js = d.createElement(s);
+						js.id = id;
+						js.src = 'patch/js/gd-main.js';
+						fjs.parentNode.insertBefore(js, fjs);
+				}(document, 'script', 'gamedistribution-jssdk'));
+			</script>
+</head> 
+ 
+<body>
+	<!-- Creation team modified -->	
+	<!-- Google Tag Manager -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K74X66" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- <script src="//play.ludigames.com/js/cookieconsent.js" charset="utf-8"></script> -->
+	
+	<script>
+		document.addEventListener('keydown', function(event) {
+			event.preventDefault();
+		});
+		window.show_freeFrame = function(){}
+		function getQueryVariable(variable)
+		{
+		   var query = window.location.search.substring(1);
+		   var vars = query.split("&");
+		   for (var i=0;i<vars.length;i++) {
+				   var pair = vars[i].split("=");
+				   if(pair[0] == variable){return pair[1];}
+		   }
+		   return(false);
+		}
+
+		var enableADS = !true;
+		//var ima3AdsLoaded = true // prevent ads loaded by GTM
+		dataLayer = [];
+		var productKey = "";
+		var productTitle = "Bo Boi Boy Run"; // for tracking game name
+		var gtmID = "";
+		if (enableADS) {
+            gtmID = 'GTM-PLZ2PKZ'; //
+            productKey = "boBoiBoyRunFree";
+			var adsPluginC2_url = '../js/games_lib/adsSDK/C2/';
+			var adsSDK_url = 'freePlugin.js';
+			var adsSDK_gameConfigUrl = '../js/games_lib/adsSDK/game_config.js';
+			var ima3Url = '../js/games_lib/adsSDK/game_config.js';
+							
+				dataLayer.push({
+				  'publisher' :  'GAMELOFT', // This is the short name of the publisher. Example: GAMELOFT
+				});
+
+        } else {
+            gtmID = 'GTM-K74X66';
+            productKey = "boBoiBoyRun";
+				dataLayer.push({
+				  'event': 'pageLoad',
+				  'publisher' :'GAMELOFT',
+				  'productKey': '' + productKey
+				});
+        }
+
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', gtmID);
+	</script>
+	
+	<!--End Google Tag Manager -->
+	<script>var isUsingAdsBlock = 1;</script>
+    <script src="showads.js"></script>
+
+	<!-- common functions -->
+    <script type='text/javascript'>
+        function insertScript(d, s, id, url) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) {
+                return;
+            }
+            js = d.createElement(s);
+            js.id = id;
+            js.src = url;
+            fjs.parentNode.insertBefore(js, fjs);
+        }
+
+        function loadOrderScript(url1, url2, url3) {
+            var script1 = document.createElement('script');
+            script1.setAttribute('src', url1);
+            script1.onload = function() {
+                if (typeof(url2) != 'undefined') {
+                    var script2 = document.createElement('script');
+                    script2.setAttribute('src', url2);
+					script2.onload = function() {						
+						if (typeof(url3) != 'undefined') {
+							var script3 = document.createElement('script');
+							script3.setAttribute('src', url3);
+							document.body.appendChild(script3);
+						}
+					}
+                    document.body.appendChild(script2);
+                }
+            }
+            document.body.appendChild(script1);
+        }
+
+        function getBrowserName() {
+            var uAgent = navigator.userAgent;
+            var browserName = "unknown";
+            // In Opera 15+, the true version is after "OPR/" 
+            if (uAgent.indexOf("OPR/") != -1) {
+                browserName = "Opera";
+            }
+            // In older Opera, the true version is after "Opera" or after "Version"
+            else if (uAgent.indexOf("Opera") != -1) {
+                browserName = "Opera";
+            }
+            // In MSIE, the true version is after "MSIE" in userAgent
+            else if (uAgent.indexOf("MSIE") != -1) {
+                browserName = "Microsoft Internet Explorer";
+            }
+			// In Samsung
+			else if (uAgent.indexOf("SamsungBrowser") != -1) {
+				browserName = "SamsungBrowser";
+			}
+            // In Chrome, the true version is after "Chrome" 
+            else if (uAgent.indexOf("Chrome") != -1) {
+                browserName = "Chrome";
+            }
+            // In Safari, the true version is after "Safari" or after "Version" 
+            else if (uAgent.indexOf("Safari") != -1) {
+                browserName = "Safari";
+            }
+            // In Firefox, the true version is after "Firefox" 
+            else if (uAgent.indexOf("Firefox") != -1) {
+                browserName = "Firefox";
+            }
+            return browserName;
+        }
+
+        function getChromeMajorVersion() {
+            var uAgent = navigator.userAgent;
+            var offset = uAgent.indexOf("Chrome");
+            return parseInt(uAgent.substring(offset + 7, offset + 9));
+        }
+    </script>
+    <!-- common functions end -->
+	<script>		
+		var fbAppID = "1648813902047202";
+        if ( 0<=window.location.href.indexOf("orange.fr") )
+            fbAppID = "164780324238699";
+        var __isiPhone = (/iphone/i.test(navigator.userAgent) || /ipod/i.test(navigator.userAgent));
+		var __isiPad = /ipad/i.test(navigator.userAgent);
+		var isDeviceiOS = __isiPhone || __isiPad;
+	</script>
+
+	<input type="hidden" id="page_is_dirty" value="no">
+	<script type="text/javascript">
+		onload = function () {
+			var e = document.getElementById("page_is_dirty");
+			if (e.value == "no") e.value = "yes";
+			else { e.value = "no"; location.reload(); }
+		}
+	</script>
+	<script>
+	if(typeof(canDetectPack) != "undefined")
+	{
+		var detectLink = getURL();
+		var currLink = window.location.href;
+		currLink = currLink.replace("index.html","");
+		if(detectLink.toLowerCase() != currLink.toLowerCase())
+			window.location.href = detectLink;
+	}
+	else if(false/*remove by Construct2 Supporter Step 1*/)
+	{
+		var isUCBrowser = /UCBrowser/i.test(navigator.userAgent);
+		if(isUCBrowser)
+		{
+		   if(window.location.href.indexOf("index_UC") < 0)
+				window.location.href = "index_UC.html";
+		}
+		else
+		{
+			if(window.location.href.indexOf("index_UC") > 0)
+				window.location.href = "index.html";
+		}
+		var isIE = /msie/i.test(navigator.userAgent) || /trident/i.test(navigator.userAgent) || /iemobile/i.test(navigator.userAgent);
+		var isiPhone = (/iphone/i.test(navigator.userAgent) || /ipod/i.test(navigator.userAgent)) && !isIE;	// treat ipod as an iphone; IE mobile masquerades as iPhone
+		var isiPad = /ipad/i.test(navigator.userAgent);
+		var isiOS = isiPhone || isiPad;
+		var IsAsusHuawei_AndroidBrowser = (/Huawei/i.test(navigator.userAgent)
+											&& /Version\//i.test(navigator.userAgent)
+											)
+		if(isiOS || IsAsusHuawei_AndroidBrowser)
+		{
+		   if(window.location.href.indexOf("index_iPhone") < 0)
+		   {
+				var sp = window.location.href.split("?");
+				if(sp.length > 1)
+					window.location.href = "index_iPhone.html" + "?" + sp[1];
+				else
+					window.location.href = "index_iPhone.html";
+			}
+		}
+		else
+		{
+			if(window.location.href.indexOf("index_iPhone") > 0)
+			{
+				var sp = window.location.href.split("?");
+				if(sp.length > 1)
+					window.location.href = "index.html" + "?" + sp[1];
+				else
+					window.location.href = "index.html";
+			}
+		}
+	}
+	function loadingError()
+	{
+		document.getElementById("loading_gif").src = "//play.ludigames.com/js/games_lib/freeFiles/loading.gif";
+	}
+	window.n_preload = 0;
+	window.MAX_PRELOAD = 5;		
+	window.firstProgress_state = -1;
+	window.PROGRESS_LOADER_INIT = -1;
+	window.PROGRESS_LOADER_IMG_LOADING = 0;
+	window.PROGRESS_LOADER_LOADED = 1;
+	window.PROGRESS_LOADER_SHOW_LOADING = 2;
+	window.PROGRESS_LOADER_FAKE_LOADING = 3;
+	window.PROGRESS_LOADER_REAL_LOADING = 4;
+	window.FAKE_LOADING_DIV = 500;
+	window.createWorld = 0;
+	
+	window.image_loading_loaded = -1;
+	window.dataLoading_delayTime = 0; //ms
+	</script>
+
+	<div id="fb-root"></div>
+	<div id="device_physic_pixels_per_cm" style="width:1cm"></div>
+	
+	<!-- The canvas must be inside a div called c2canvasdiv -->
+	<div id="c2canvasdiv">
+	
+		<!-- The canvas the project will render to.  If you change its ID, don't forget to change the
+		ID the runtime looks for in the jQuery events above (ready() and cr_sizeCanvas()). -->		
+		<canvas id="c2canvas" width="1080" height="1920">
+			<!-- This text is displayed if the visitor's browser does not support HTML5.
+			You can change it, but it is a good idea to link to a description of a browser
+			and provide some links to download some popular HTML5-compatible browsers. -->
+			<h1>Your browser does not appear to support HTML5.  Try upgrading your browser to the latest version.  <a href="http://www.whatbrowser.org">What is a browser?</a>
+			<br/><br/><a href="http://www.microsoft.com/windows/internet-explorer/default.aspx">Microsoft Internet Explorer</a><br/>
+			<a href="http://www.mozilla.com/firefox/">Mozilla Firefox</a><br/>
+			<a href="http://www.google.com/chrome/">Google Chrome</a><br/>
+			<a href="http://www.apple.com/safari/download/">Apple Safari</a><br/>
+			<a href="http://www.google.com/chromeframe">Google Chrome Frame for Internet Explorer</a><br/></h1>
+		</canvas>
+	<!-- Creation team modified -->
+		<img src="loading.gif" onerror="loadingError()" id="loading_gif" style="width:80px;height:80px;position: fixed;top: 50%;left: 50%;margin-top: -40px;margin-left: -40px;display: none">		
+	<!-- END Creation team modified -->
+	</div>
+	<script>
+		//if(!window.enableADS)			
+			document.getElementById("loading_gif").style.display = "inline";
+	</script>
+	<!-- Construct 2 exported games require jQuery. -->
+	<script src="jquery-2.1.1.min.js"></script>
+
+		<!-- script for Age Gating -->
+	<script>
+		function setCookie(cname, cvalue, exdays) {
+			var d = new Date();
+			d.setTime(d.getTime() + (exdays*24*60*60*1000));
+			var expires = "expires="+ d.toUTCString();
+			document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+		}
+
+		function getCookie(cname) {
+			var name = cname + "=";
+			var decodedCookie = decodeURIComponent(document.cookie);
+			var ca = decodedCookie.split(';');
+			for(var i = 0; i <ca.length; i++) {
+				var c = ca[i];
+				while (c.charAt(0) == ' ') {
+					c = c.substring(1);
+				}
+				if (c.indexOf(name) == 0) {
+					return c.substring(name.length, c.length);
+				}
+			}
+			return "";
+		}
+
+		var list_coppa = "us,as,um,vi,gu,mp,pr";
+		var list_eu = "at,be,bg,hr,cy,cz,dk,ee,fi,fr,de,gr,hu,ie,it,lv,lt,lu,mt,nl,pl,pt,ro,sk,si,es,se,gb,ax,aw,io,vg,ic,bq,ky,ea,cw,dg,fk,gf,pf,gi,gl,gp,gg,im,je,mq,yt,ms,nc,pn,re,bl,sh,mf,pm,sx,tc,wf,fo,tf,cp,gs,bm,ai";
+		var list_eu_3 = "uk,it,de";	
+		var age_coppa = 13, age_eu=16;
+		
+		var gCoppaEnabled = 0;
+		var gGdprEuEnabled = 0;
+		var gEU3Enabled = 0;
+		var gSocialFeatureEnabled = 0;
+		
+		var gUserIP = "";
+		var gUserCountry = "-";
+		var gUserAge = 0;
+		
+		var temp_country = getQueryVariable("glctl");		
+		var temp_country_debug_enabled = false;
+		if (temp_country!=false && temp_country!==""){
+			gUserCountry = temp_country.toLowerCase();
+			temp_country_debug_enabled = true;
+		}
+		
+		function setUserAge(age){
+			if(age <= 0 || 200 < age)
+				return false;
+			
+			gUserAge = age;
+			setCookie("uAge", age, 365);
+			return true;
+		}
+
+		function getUserAge(){
+			if (gUserAge <= 0){
+				var _tee = getCookie("uAge");
+				if (_tee!="")
+					gUserAge = parseInt(_tee);
+			}
+			return gUserAge;
+		}
+		
+		function getUserCountry(){
+			return gUserCountry;
+		}
+				
+		function doCheckGDPR(){	
+			var age = getUserAge();
+			var country = gUserCountry.toLowerCase();
+			
+			gCoppaEnabled = 0;
+			gGdprEuEnabled = 0;
+			gEU3Enabled = 0;
+			gSocialFeatureEnabled = 1;
+			
+			if (gUserCountry=="-")
+				return;
+			
+			//handle compare region
+			if(age <age_coppa && list_coppa.indexOf(country)!==-1){
+				gCoppaEnabled = 1;
+				gSocialFeatureEnabled = 0;
+			}
+			else if(age <age_eu && list_eu_3.indexOf(country)!==-1){
+				gEU3Enabled = 1;
+				gSocialFeatureEnabled = 0;
+			}
+			else if(age <age_eu && list_eu.indexOf(country)!==-1){
+				gGdprEuEnabled = 1;
+				gSocialFeatureEnabled = 0;
+			}
+			
+			//gSocialFeatureEnabled = (gCoppaEnabled==0 && gGdprEuEnabled==0);					
+		}
+		
+		function detectUserCountry(){
+			//Skip checking the country and using the debug value from url param
+			if (temp_country_debug_enabled)
+				return false;
+				
+			$.get("//api.ipify.org/", function(data) {
+				gUserIP = data;
+				$.getJSON("//play.ludigames.com/js/games_lib/getgeolocation.php/?ip=" + gUserIP, function(datas) {
+					//var table_body = "";
+					$.each(datas, function(k, v) {
+						if (k.indexOf("countryCode") > -1){
+							gUserCountry = v;
+							gUserCountry = gUserCountry.toLowerCase();
+
+							//Check the GDPR from the 2nd launch game
+							if(getCookie("uAge")!="")
+								doCheckGDPR();
+								
+							return false;
+						}
+					});			
+				})
+				.error(function() {
+					gCoppaEnabled = 0;
+					gGdprEuEnabled = 0;
+					gEU3Enabled = 0;
+					gSocialFeatureEnabled = 0;
+				});
+			});
+		}
+		
+		detectUserCountry();
+		
+		
+	</script>
+
+	<!--script src="freePlugin.js"></script-->
+	<script src="ga_init.js"></script>
+
+	
+    <!-- The runtime script.  You can rename it, but don't forget to rename the reference here as well.
+    This file will have been minified and obfuscated if you enabled "Minify script" during export. -->
+	<script src="c2runtime.js"></script>
+	<!--script src="http://play.ludigames.com/js/games_lib/debug_002.js"></script-->
+	<script src="preloaded.js"></script>
+    <script>
+		// Size the canvas to fill the browser viewport.
+		function resetVarGameStarted()
+		{
+			GameStarted = false;
+		}
+		var GameStarted = false;
+
+		// function createC2canvas()
+		{
+			{
+				document.getElementById("loading_gif").style.display = "inline";
+				jQuery(window).resize(function() {
+					cr_sizeCanvas(jQuery(window).width(), jQuery(window).height());
+				});
+				
+				// Start the Construct 2 project running on window load.
+				jQuery(document).ready(function ()
+				{			
+					// Create new runtime using the c2canvas
+					if (image_loading_loaded != 1)
+					{
+						dataLoading_delayTime = 1000;
+						setTimeout(function () {
+							console.log('cr_createRuntime was delayed ' + dataLoading_delayTime);
+							cr_createRuntime("c2canvas");
+							var ismobile = window.screen.width < window.screen.height;					
+							if (ismobile){					
+								$("#c2canvas").css("position", "fixed");
+								$("#c2canvas").css("top", "0");
+								$("#c2canvas").css("left", "0");
+								$("#c2canvas").css("right", "0");
+								$("#c2canvas").css("z-index", "0");				
+							}
+						}, dataLoading_delayTime);
+					}
+					else
+					{
+						GameStarted = !false;
+						cr_createRuntime("c2canvas");
+						var ismobile = window.screen.width < window.screen.height;					
+						if (ismobile){					
+							$("#c2canvas").css("position", "fixed");
+							$("#c2canvas").css("top", "0");
+							$("#c2canvas").css("left", "0");
+							$("#c2canvas").css("right", "0");
+							$("#c2canvas").css("z-index", "0");				
+						}
+					}
+					
+					
+
+				});
+				
+				// Pause and resume on page becoming visible/invisible
+				function onVisibilityChanged() {
+					if (document.hidden || document.mozHidden || document.webkitHidden || document.msHidden)
+						cr_setSuspended(true);
+					else
+						cr_setSuspended(false);
+				};
+				
+				document.addEventListener("visibilitychange", onVisibilityChanged, false);
+				document.addEventListener("mozvisibilitychange", onVisibilityChanged, false);
+				document.addEventListener("webkitvisibilitychange", onVisibilityChanged, false);
+				document.addEventListener("msvisibilitychange", onVisibilityChanged, false);
+			}
+		}
+		// createC2canvas();
+		
+			if (navigator.serviceWorker && navigator.serviceWorker.register)
+			{
+				// Register an empty service worker to trigger web app install banners.
+				navigator.serviceWorker.register("sw.js", { scope: "./" });
+			}
+		function getPixelsPerCm()
+		{
+			/*var o = document.getElementById("device_physic_pixels_per_cm");
+			alert(o.offsetWidth)
+			return o.offsetWidth
+			*/
+			return 38;
+		}
+		document.getElementById("c2canvasdiv").addEventListener("touchstart", function(event){
+		  if(event && event.preventDefault)
+			{
+				try{
+				event.preventDefault();
+				}catch(e){}
+			}
+		});
+		document.getElementById("c2canvasdiv").addEventListener("touchmove", function(event){
+		  if(event && event.preventDefault)
+			{
+				try{
+				event.preventDefault();
+				}catch(e){}
+			}
+		});
+		document.getElementById("c2canvasdiv").addEventListener("touchend", function(event){
+		  if(event && event.preventDefault)
+			{
+				try{
+				event.preventDefault();
+				}catch(e){}
+			}
+		});
+		document.getElementById("c2canvasdiv").addEventListener("touchleave", function(event){
+		  if(event && event.preventDefault)
+			{
+				try{
+				event.preventDefault();
+				}catch(e){}
+			}
+		});
+		document.getElementById("c2canvasdiv").addEventListener("touchcancel", function(event){
+		  if(event && event.preventDefault)
+			{
+				try{
+				event.preventDefault();
+				}catch(e){}
+			}
+		});
+    </script>
+</body> 
+</html> 

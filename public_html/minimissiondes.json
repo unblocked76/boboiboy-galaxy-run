@@ -1,0 +1,394 @@
+[
+    {
+        "Amount": "400",
+        "ID": "MS_DISTANCE",
+        "Icon": "Distance",
+        "No": "1",
+        "Reward": "20",
+		"Completed": ""
+    },
+    {
+        "Amount": "5",
+        "ID": "MS_DOUBLE_JUMP",
+        "Icon": "Distance",
+        "No": "2",
+        "Reward": "20",
+		"Completed": ""
+    },
+    {
+        "Amount": "5",
+        "ID": "MS_SWIPE_DOWN",
+        "Icon": "Distance",
+        "No": "3",
+        "Reward": "20",
+		"Completed": ""
+    },
+    {
+        "Amount": "2",
+        "ID": "MS_DASH",
+        "Icon": "Frenzy",
+        "No": "4",
+        "Reward": "20",
+		"Completed": ""
+    },
+    {
+        "Amount": "100",
+        "ID": "MS_ENEMY_KILL",
+        "Icon": "Killing",
+        "No": "5",
+        "Reward": "50",
+		"Completed": ""
+    },
+    {
+        "Amount": "10",
+        "ID": "MS_DOUBLE_JUMP",
+        "Icon": "Distance",
+        "No": "6",
+        "Reward": "50",
+		"Completed": ""
+    },
+    {
+        "Amount": "10",
+        "ID": "MS_SWIPE_DOWN",
+        "Icon": "Distance",
+        "No": "8",
+        "Reward": "50",
+		"Completed": ""
+    },
+    {
+        "Amount": "100",
+        "ID": "MS_MEDAL",
+        "Icon": "Collect",
+        "No": "9",
+        "Reward": "20",
+		"Completed": ""
+    },
+    {
+        "Amount": "20",
+        "ID": "MS_DOUBLE_JUMP",
+        "Icon": "Distance",
+        "No": "10",
+        "Reward": "100",
+		"Completed": ""
+    },
+    {
+        "Amount": "10",
+        "ID": "MS_ENEMY_KILL_BY_DASH",
+        "Icon": "Killing",
+        "No": "11",
+        "Reward": "50",
+		"Completed": ""
+    },
+    {
+        "Amount": "20",
+        "ID": "MS_SWIPE_DOWN",
+        "Icon": "Distance",
+        "No": "12",
+        "Reward": "100",
+		"Completed": ""
+    },
+    {
+        "Amount": "10",
+        "ID": "MS_DOUBLE_JUMP",
+        "Icon": "Distance",
+        "No": "14",
+        "Reward": "50",
+		"Completed": ""
+    },
+    {
+        "Amount": "5",
+        "ID": "MS_OBSTACLE_DESTROY",
+        "Icon": "Frenzy",
+        "No": "15",
+        "Reward": "20",
+		"Completed": ""
+    },
+    {
+        "Amount": "100",
+        "ID": "MS_ENEMY_KILL",
+        "Icon": "Killing",
+        "No": "16",
+        "Reward": "50",
+		"Completed": ""
+    },
+    {
+        "Amount": "10",
+        "ID": "MS_SWIPE_DOWN",
+        "Icon": "Distance",
+        "No": "17",
+        "Reward": "50",
+		"Completed": ""
+    },
+    {
+        "Amount": "20",
+        "ID": "MS_DOUBLE_JUMP",
+        "Icon": "Distance",
+        "No": "19",
+        "Reward": "100",
+		"Completed": ""
+    },
+    {
+        "Amount": "2",
+        "ID": "MS_DESTROY_BARREL",
+        "Icon": "Frenzy",
+        "No": "20",
+        "Reward": "20",
+		"Completed": ""
+    },
+    {
+        "Amount": "8",
+        "ID": "MS_DASH",
+        "Icon": "Frenzy",
+        "No": "21",
+        "Reward": "100",
+		"Completed": ""
+    },
+    {
+        "Amount": "35",
+        "ID": "MS_SWIPE_DOWN",
+        "Icon": "Distance",
+        "No": "22",
+        "Reward": "200",
+		"Completed": ""
+    },
+    {
+        "Amount": "800",
+        "ID": "MS_DISTANCE",
+        "Icon": "Distance",
+        "No": "24",
+        "Reward": "50",
+		"Completed": ""
+    },
+    {
+        "Amount": "4",
+        "ID": "MS_DESTROY_BARREL",
+        "Icon": "Frenzy",
+        "No": "25",
+        "Reward": "50",
+		"Completed": ""
+    },
+    {
+        "Amount": "20",
+        "ID": "MS_ENEMY_KILL_BY_DASH",
+        "Icon": "Killing",
+        "No": "26",
+        "Reward": "100",
+		"Completed": ""
+    },
+    {
+        "Amount": "35",
+        "ID": "MS_DOUBLE_JUMP",
+        "Icon": "Distance",
+        "No": "27",
+        "Reward": "200",
+		"Completed": ""
+    },
+    {
+        "Amount": "200",
+        "ID": "MS_ENEMY_KILL",
+        "Icon": "Killing",
+        "No": "28",
+        "Reward": "100",
+		"Completed": ""
+    },
+    {
+        "Amount": "20",
+        "ID": "MS_SWIPE_DOWN",
+        "Icon": "Distance",
+        "No": "29",
+        "Reward": "100",
+		"Completed": ""
+    },
+    {
+        "Amount": "5",
+        "ID": "MS_OBSTACLE_DESTROY",
+        "Icon": "Frenzy",
+        "No": "30",
+        "Reward": "20",
+		"Completed": ""
+    },
+    {
+        "Amount": "200",
+        "ID": "MS_MEDAL",
+        "Icon": "Collect",
+        "No": "31",
+        "Reward": "50",
+		"Completed": ""
+    },
+    {
+        "Amount": "10",
+        "ID": "MS_ENEMY_KILL_BY_DASH",
+        "Icon": "Killing",
+        "No": "32",
+        "Reward": "50",
+		"Completed": ""
+    },
+    {
+        "Amount": "1600",
+        "ID": "MS_DISTANCE",
+        "Icon": "Distance",
+        "No": "33",
+        "Reward": "100",
+		"Completed": ""
+    },
+    {
+        "Amount": "8",
+        "ID": "MS_DESTROY_BARREL",
+        "Icon": "Frenzy",
+        "No": "34",
+        "Reward": "100",
+		"Completed": ""
+    },
+    {
+        "Amount": "4",
+        "ID": "MS_DASH",
+        "Icon": "Frenzy",
+        "No": "35",
+        "Reward": "50",
+		"Completed": ""
+    },
+    {
+        "Amount": "10",
+        "ID": "MS_OBSTACLE_DESTROY",
+        "Icon": "Frenzy",
+        "No": "38",
+        "Reward": "50",
+		"Completed": ""
+    },
+    {
+        "Amount": "4",
+        "ID": "MS_DESTROY_BARREL",
+        "Icon": "Frenzy",
+        "No": "39",
+        "Reward": "50",
+		"Completed": ""
+    },
+    {
+        "Amount": "20",
+        "ID": "MS_ENEMY_KILL_BY_DASH",
+        "Icon": "Killing",
+        "No": "40",
+        "Reward": "100",
+		"Completed": ""
+    },
+    {
+        "Amount": "400",
+        "ID": "MS_MEDAL",
+        "Icon": "Collect",
+        "No": "41",
+        "Reward": "100",
+		"Completed": ""
+    },
+    {
+        "Amount": "10",
+        "ID": "MS_OBSTACLE_DESTROY",
+        "Icon": "Frenzy",
+        "No": "42",
+        "Reward": "50",
+		"Completed": ""
+    },
+    {
+        "Amount": "200",
+        "ID": "MS_ENEMY_KILL",
+        "Icon": "Killing",
+        "No": "43",
+        "Reward": "100",
+		"Completed": ""
+    },
+    {
+        "Amount": "20",
+        "ID": "MS_ENEMY_KILL_BY_DASH",
+        "Icon": "Killing",
+        "No": "45",
+        "Reward": "100",
+		"Completed": ""
+    },
+    {
+        "Amount": "400",
+        "ID": "MS_MEDAL",
+        "Icon": "Collect",
+        "No": "46",
+        "Reward": "100",
+		"Completed": ""
+    },
+    {
+        "Amount": "2800",
+        "ID": "MS_DISTANCE",
+        "Icon": "Distance",
+        "No": "47",
+        "Reward": "200",
+		"Completed": ""
+    },
+    {
+        "Amount": "4",
+        "ID": "MS_DESTROY_BARREL",
+        "Icon": "Frenzy",
+        "No": "48",
+        "Reward": "50",
+		"Completed": ""
+    },
+    {
+        "Amount": "20",
+        "ID": "MS_OBSTACLE_DESTROY",
+        "Icon": "Frenzy",
+        "No": "49",
+        "Reward": "100",
+		"Completed": ""
+    },
+    {
+        "Amount": "200",
+        "ID": "MS_ENEMY_KILL",
+        "Icon": "Killing",
+        "No": "50",
+        "Reward": "100",
+		"Completed": ""
+    },
+    {
+        "Amount": "35",
+        "ID": "MS_ENEMY_KILL_BY_DASH",
+        "Icon": "Killing",
+        "No": "51",
+        "Reward": "200",
+		"Completed": ""
+    },
+    {
+        "Amount": "400",
+        "ID": "MS_MEDAL",
+        "Icon": "Collect",
+        "No": "52",
+        "Reward": "100",
+		"Completed": ""
+    },
+    {
+        "Amount": "14",
+        "ID": "MS_DESTROY_BARREL",
+        "Icon": "Frenzy",
+        "No": "53",
+        "Reward": "200",
+		"Completed": ""
+    },
+    {
+        "Amount": "35",
+        "ID": "MS_OBSTACLE_DESTROY",
+        "Icon": "Frenzy",
+        "No": "54",
+        "Reward": "200",
+		"Completed": ""
+    },
+    {
+        "Amount": "350",
+        "ID": "MS_ENEMY_KILL",
+        "Icon": "Killing",
+        "No": "55",
+        "Reward": "200",
+		"Completed": ""
+    },
+    {
+        "Amount": "700",
+        "ID": "MS_MEDAL",
+        "Icon": "Collect",
+        "No": "56",
+        "Reward": "200",
+		"Completed": ""
+    }
+]

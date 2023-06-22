@@ -1,0 +1,62 @@
+[
+    {
+        "NumOfDead": "0",
+        "Scenario": "1"
+    },
+    {
+        "NumOfDead": "1",
+        "Scenario": "1"
+    },
+    {
+        "NumOfDead": "5",
+        "Scenario": "1"
+    },
+    {
+        "NumOfDead": "11",
+        "Scenario": "2"
+    },
+    {
+        "NumOfDead": "14",
+        "Scenario": "2"
+    },
+    {
+        "NumOfDead": "24",
+        "Scenario": "2"
+    },
+    {
+        "NumOfDead": "36",
+        "Scenario": "3"
+    },
+    {
+        "NumOfDead": "40",
+        "Scenario": "3"
+    },
+    {
+        "NumOfDead": "55",
+        "Scenario": "3"
+    },
+    {
+        "NumOfDead": "70",
+        "Scenario": "4"
+    },
+    {
+        "NumOfDead": "75",
+        "Scenario": "4"
+    },
+    {
+        "NumOfDead": "95",
+        "Scenario": "5"
+    },
+    {
+        "NumOfDead": "115",
+        "Scenario": "5"
+    },
+    {
+        "NumOfDead": "135",
+        "Scenario": "5"
+    },
+    {
+        "NumOfDead": "155",
+        "Scenario": "4"
+    }
+]

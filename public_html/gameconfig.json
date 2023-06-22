@@ -1,0 +1,12 @@
+{
+   "c2dictionary":true,
+   "data":{
+      "GameVersion": "123",
+	  "FreeGiftInterval": "900",
+	  "DailyrewardInterval": "900",
+	  "Revivalcost01": "350",
+	  "Revivalcost02": "500",
+	  "Revivalcost03": "650",
+	   "FileDownloadPerTurn": "10"
+   }
+}

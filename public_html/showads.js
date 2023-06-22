@@ -1,0 +1,1 @@
+isUsingAdsBlock = 0;

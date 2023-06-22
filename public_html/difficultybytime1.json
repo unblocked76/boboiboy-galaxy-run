@@ -1,0 +1,436 @@
+[
+    {
+        "Cage": "0",
+        "Difficulty": "2",
+        "Portal": "0",
+        "Speed": "11",
+        "Time": "6"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "2",
+        "Portal": "0",
+        "Speed": "11",
+        "Time": "12"
+    },
+    {
+        "Cage": "1",
+        "Difficulty": "2",
+        "Portal": "0",
+        "Speed": "11",
+        "Time": "18"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "3",
+        "Portal": "0",
+        "Speed": "12",
+        "Time": "24"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "3",
+        "Portal": "0",
+        "Speed": "12",
+        "Time": "30"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "3",
+        "Portal": "1",
+        "Speed": "12",
+        "Time": "36"
+    },
+    {
+        "Cage": "1",
+        "Difficulty": "3",
+        "Portal": "0",
+        "Speed": "12",
+        "Time": "42"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "4",
+        "Portal": "0",
+        "Speed": "13",
+        "Time": "48"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "4",
+        "Portal": "0",
+        "Speed": "13",
+        "Time": "54"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "4",
+        "Portal": "0",
+        "Speed": "13",
+        "Time": "60"
+    },
+    {
+        "Cage": "1",
+        "Difficulty": "4",
+        "Portal": "0",
+        "Speed": "13",
+        "Time": "66"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "4",
+        "Portal": "0",
+        "Speed": "13",
+        "Time": "72"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "5",
+        "Portal": "0",
+        "Speed": "14",
+        "Time": "78"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "5",
+        "Portal": "0",
+        "Speed": "14",
+        "Time": "84"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "5",
+        "Portal": "1",
+        "Speed": "14",
+        "Time": "90"
+    },
+    {
+        "Cage": "1",
+        "Difficulty": "5",
+        "Portal": "0",
+        "Speed": "14",
+        "Time": "96"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "6",
+        "Portal": "0",
+        "Speed": "15",
+        "Time": "102"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "6",
+        "Portal": "0",
+        "Speed": "15",
+        "Time": "108"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "6",
+        "Portal": "0",
+        "Speed": "15",
+        "Time": "114"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "6",
+        "Portal": "0",
+        "Speed": "15",
+        "Time": "120"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "6",
+        "Portal": "0",
+        "Speed": "15",
+        "Time": "126"
+    },
+    {
+        "Cage": "1",
+        "Difficulty": "7",
+        "Portal": "0",
+        "Speed": "16",
+        "Time": "132"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "7",
+        "Portal": "0",
+        "Speed": "16",
+        "Time": "138"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "7",
+        "Portal": "0",
+        "Speed": "16",
+        "Time": "144"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "7",
+        "Portal": "0",
+        "Speed": "16",
+        "Time": "150"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "8",
+        "Portal": "0",
+        "Speed": "16",
+        "Time": "156"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "8",
+        "Portal": "0",
+        "Speed": "17",
+        "Time": "162"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "8",
+        "Portal": "1",
+        "Speed": "17",
+        "Time": "168"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "8",
+        "Portal": "0",
+        "Speed": "17",
+        "Time": "174"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "8",
+        "Portal": "0",
+        "Speed": "17",
+        "Time": "180"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "9",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "186"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "9",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "192"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "9",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "198"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "9",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "204"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "9",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "210"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "216"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "222"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "228"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "234"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "240"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "246"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "252"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "258"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "264"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "270"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "276"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "282"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "288"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "1",
+        "Speed": "18",
+        "Time": "294"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "300"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "306"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "312"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "318"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "324"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "330"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "336"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "342"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "348"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "354"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "360"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "366"
+    },
+    {
+        "Cage": "0",
+        "Difficulty": "10",
+        "Portal": "0",
+        "Speed": "18",
+        "Time": "372"
+    }
+]

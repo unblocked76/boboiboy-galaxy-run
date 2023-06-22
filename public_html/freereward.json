@@ -1,0 +1,17 @@
+[
+    {
+		"ID": "UI_REWARD_MEDALS",
+        "Icon": "Energy",
+        "Amount": "40"
+    },
+	{
+		"ID": "UI_REWARD_MEDALS",
+        "Icon": "Energy",
+        "Amount": "50"
+    },
+	{
+		"ID": "UI_REWARD_MEDALS",
+        "Icon": "Energy",
+        "Amount": "60"
+    }
+]

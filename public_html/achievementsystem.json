@@ -1,0 +1,226 @@
+[
+    {
+        "Amount": "15",
+        "ID": "AC_DESTROY_BARREL",
+        "Icon": "Frenzy",
+        "Reward": "60",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "40",
+        "ID": "AC_DESTROY_BARREL",
+        "Icon": "Frenzy",
+        "Reward": "150",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "125",
+        "ID": "AC_DESTROY_BARREL",
+        "Icon": "Frenzy",
+        "Reward": "250",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "375",
+        "ID": "AC_DESTROY_BARREL",
+        "Icon": "Frenzy",
+        "Reward": "500",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "3000",
+        "ID": "AC_DISTANCE",
+        "Icon": "Distance",
+        "Reward": "60",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "8500",
+        "ID": "AC_DISTANCE",
+        "Icon": "Distance",
+        "Reward": "150",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "25000",
+        "ID": "AC_DISTANCE",
+        "Icon": "Distance",
+        "Reward": "250",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "75000",
+        "ID": "AC_DISTANCE",
+        "Icon": "Distance",
+        "Reward": "500",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "350",
+        "ID": "AC_ENEMY_KILL",
+        "Icon": "Killing",
+        "Reward": "60",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "1050",
+        "ID": "AC_ENEMY_KILL",
+        "Icon": "Killing",
+        "Reward": "150",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "3150",
+        "ID": "AC_ENEMY_KILL",
+        "Icon": "Killing",
+        "Reward": "250",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "9500",
+        "ID": "AC_ENEMY_KILL",
+        "Icon": "Killing",
+        "Reward": "500",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "35",
+        "ID": "AC_ENEMY_KILL_BY_DASH",
+        "Icon": "Killing",
+        "Reward": "60",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "105",
+        "ID": "AC_ENEMY_KILL_BY_DASH",
+        "Icon": "Killing",
+        "Reward": "150",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "315",
+        "ID": "AC_ENEMY_KILL_BY_DASH",
+        "Icon": "Killing",
+        "Reward": "250",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "950",
+        "ID": "AC_ENEMY_KILL_BY_DASH",
+        "Icon": "Killing",
+        "Reward": "500",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "700",
+        "ID": "AC_MEDAL",
+        "Icon": "Collect",
+        "Reward": "60",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "2100",
+        "ID": "AC_MEDAL",
+        "Icon": "Collect",
+        "Reward": "150",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "6500",
+        "ID": "AC_MEDAL",
+        "Icon": "Collect",
+        "Reward": "250",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "20000",
+        "ID": "AC_MEDAL",
+        "Icon": "Collect",
+        "Reward": "500",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "5",
+        "ID": "AC_RUN_IN_DESERT",
+        "Icon": "Distance",
+        "Reward": "60",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "15",
+        "ID": "AC_RUN_IN_DESERT",
+        "Icon": "Distance",
+        "Reward": "150",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "45",
+        "ID": "AC_RUN_IN_DESERT",
+        "Icon": "Distance",
+        "Reward": "250",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "135",
+        "ID": "AC_RUN_IN_DESERT",
+        "Icon": "Distance",
+        "Reward": "500",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "5",
+        "ID": "AC_RUN_IN_JUNGLE",
+        "Icon": "Distance",
+        "Reward": "60",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "15",
+        "ID": "AC_RUN_IN_JUNGLE",
+        "Icon": "Distance",
+        "Reward": "150",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "45",
+        "ID": "AC_RUN_IN_JUNGLE",
+        "Icon": "Distance",
+        "Reward": "250",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "135",
+        "ID": "AC_RUN_IN_JUNGLE",
+        "Icon": "Distance",
+        "Reward": "500",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "5",
+        "ID": "AC_RUN_IN_SPACE_SHIP",
+        "Icon": "Distance",
+        "Reward": "60",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "15",
+        "ID": "AC_RUN_IN_SPACE_SHIP",
+        "Icon": "Distance",
+        "Reward": "150",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "45",
+        "ID": "AC_RUN_IN_SPACE_SHIP",
+        "Icon": "Distance",
+        "Reward": "250",
+		"LevelCompleted": ""
+    },
+    {
+        "Amount": "135",
+        "ID": "AC_RUN_IN_SPACE_SHIP",
+        "Icon": "Distance",
+        "Reward": "500",
+		"LevelCompleted": ""
+    }
+]

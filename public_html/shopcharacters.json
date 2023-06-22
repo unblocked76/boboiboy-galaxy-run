@@ -1,0 +1,44 @@
+[
+{
+	"ID":"Fire",
+	"Unlocked":"0",
+	"UnlockByDefault":"1",
+	"UnlockPrice":"0",
+	"UnlockByEvent":""
+},
+{
+	"ID":"Lightning",
+	"Unlocked":"0",
+	"UnlockByDefault":"0",
+	"UnlockPrice":"1500",
+	"UnlockByEvent":""
+},
+{
+	"ID":"Earth",
+	"Unlocked":"0",
+	"UnlockByDefault":"0",
+	"UnlockPrice":"5000",
+	"UnlockByEvent":""
+},
+{
+	"ID":"Yaya",
+	"Unlocked":"0",
+	"UnlockByDefault":"0",
+	"UnlockPrice":"9000",
+	"UnlockByEvent":""
+},
+{
+	"ID":"Ying",
+	"Unlocked":"0",
+	"UnlockByDefault":"0",
+	"UnlockPrice":"13000",
+	"UnlockByEvent":""
+},
+{
+	"ID":"Fang",
+	"Unlocked":"0",
+	"UnlockByDefault":"0",
+	"UnlockPrice":"0",
+	"UnlockByEvent":"DailyReward"
+}
+]

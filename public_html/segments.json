@@ -1,0 +1,4221 @@
+[{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FAR02A_Random01",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FAR02A_Random02",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FAR02A_Random03",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FAR02A_Random04",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FAR02A_Random05",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FAR02A_Random06",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FAR02A_Random07",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FAR02A_Random08",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FAR02A_Random09",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FAR02A_Random10",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FAR02F_Random01",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FAR02F_Random02",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FAR02F_Random03",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FAR02F_Random04",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FAR02F_Random05",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FAR02F_Random06",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FAR02F_Random07",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FAR02F_Random08",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FAR02F_Random09",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FAR02F_Random10",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FRE02A_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FRE02A_Random02",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FRE02A_Random03",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FRE02A_Random04",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FRE02A_Random05",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FRE02A_Random06",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FRE02A_Random07",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FRE02A_Random08",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FRE02A_Random09",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FRE02A_Random10",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FRE02A_Random15",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FRE02F_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FRE02F_Random02",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FRE02F_Random03",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FRE02F_Random04",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FRE02F_Random05",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FRE02F_Random06",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FRE02F_Random07",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FRE02F_Random08",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FRE02F_Random09",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_FRE02F_Random10",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_RHY02G_Random01",
+	"Pattern": "10"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "2",
+	"Name": "CH_RHY02G_Random02",
+	"Pattern": "10"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "2",
+	"Name": "S1_FRE02A_Random15",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "2",
+	"Name": "S1_RHY02G_Random01",
+	"Pattern": "10"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "2",
+	"Name": "S1_RHY02G_Random02",
+	"Pattern": "10"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "2",
+	"Name": "S2_FAR02A_Random01",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "2",
+	"Name": "S2_RHY02G_Random01",
+	"Pattern": "10"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "2",
+	"Name": "S3_FRE02A_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "2",
+	"Name": "S3_RHY02G_Random02",
+	"Pattern": "10"
+},
+{
+	"Challenge": "Special4",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "2",
+	"Name": "S4_FAR02A_Random01",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Special5",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "2",
+	"Name": "S5_FRE02A_Random05",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special6",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "2",
+	"DeadRequireMin": "1",
+	"Difficulty": "2",
+	"Name": "S6_FAR02A_Random06",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Special7",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "4",
+	"DeadRequireMin": "3",
+	"Difficulty": "2",
+	"Name": "S7_FRE02A_Random10",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special8",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "2",
+	"Name": "S8_FAR02A_Random04",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_JUM03G_Random03",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_JUM03G_Random04",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_JUM03G_Random05",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_JUM03G_Random06",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_JUM03G_Random07",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_JUM03G_Random08",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_JUM03G_Random09",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_FRE03A_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_FRE03A_Random02",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_SWI03G_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_SWI03G_Random02",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_SWI03G_Random03",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_FRE03F_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "3",
+	"Name": "S1_FRE03A_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "3",
+	"Name": "S1_FRE03F_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "3",
+	"Name": "S1_JUM03G_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_JUM03B_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_JUM03B_Random02",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "3",
+	"Name": "S1_SWI03G_Random02",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_JUM03B_Random03",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "3",
+	"Name": "S2_FRE03A_Random02",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "3",
+	"Name": "S2_FRE03F_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_JUM03B_Random04",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "3",
+	"Name": "S2_SWI03G_Random02",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_JUM03B_Random05",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "3",
+	"Name": "S3_FRE03A_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "3",
+	"Name": "S3_FRE03F_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_JUM03B_Random06",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "3",
+	"Name": "S3_SWI03G_Random02",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_JUM03B_Random07",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special4",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "3",
+	"Name": "S4_FAR03G_Random01",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Special4",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "3",
+	"Name": "S4_SWI03G_Random02",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_JUM03B_Random09",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special5",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "3",
+	"Name": "S5_JUM03G_Random07",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special5",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "3",
+	"Name": "S5_SWI03G_Random03",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_JUM03B_Random10",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special6",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "2",
+	"DeadRequireMin": "1",
+	"Difficulty": "3",
+	"Name": "S6_FAR03G_Random01",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Special6",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "2",
+	"DeadRequireMin": "1",
+	"Difficulty": "3",
+	"Name": "S6_JUM03G_Random05",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_JUM03G_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special7",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "4",
+	"DeadRequireMin": "3",
+	"Difficulty": "3",
+	"Name": "S7_JUM03G_Random08",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special7",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "4",
+	"DeadRequireMin": "3",
+	"Difficulty": "3",
+	"Name": "S7_SWI03G_Random02",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "3",
+	"Name": "CH_JUM03G_Random02",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special8",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "3",
+	"Name": "S8_JUM03G_Random03",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special9",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "3",
+	"Name": "S9_FRE03A_Random02",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special10",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "8",
+	"DeadRequireMin": "7",
+	"Difficulty": "3",
+	"Name": "SS_FRE03A_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "4",
+	"Name": "CH_FRE04F_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "4",
+	"Name": "CH_JUM04B_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "4",
+	"Name": "CH_RWR04B_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "3",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "4",
+	"Name": "S2_JUM04C_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "4",
+	"Name": "S2_JUM04D_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "4",
+	"Name": "CH_RWR04D_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "4",
+	"Name": "S2_STA04B_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "4",
+	"Name": "CH_RWR04G_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "4",
+	"Name": "S2_SWI04G_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "4",
+	"Name": "CH_STA04A_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "4",
+	"Name": "CH_STA04B_Random11",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "4",
+	"Name": "CH_STA04G_Random11",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "3",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "4",
+	"Name": "S3_JUM04C_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "4",
+	"Name": "S3_JUM04G_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "4",
+	"Name": "CH_JUM04B_Random02",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "4",
+	"Name": "S3_RWR04B_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "4",
+	"Name": "S3_STA04G_Random11",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "4",
+	"Name": "CH_JUM04B_Random03",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "4",
+	"Name": "CH_JUM04B_Random04",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "4",
+	"Name": "CH_SWI04B_Random11",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Special4",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "4",
+	"Name": "S4_STA04A_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Special4",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "4",
+	"Name": "S4_STA04G_Random11",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "4",
+	"Name": "CH_SWI04D_Random11",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Special4",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "4",
+	"Name": "S4_SWI04G_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "4",
+	"Name": "CH_SWI04G_Random11",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Special5",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "4",
+	"Name": "S5_FRE04F_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "4",
+	"Name": "CH_JUM04B_Random05",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special5",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "4",
+	"Name": "S5_RWR04G_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Special5",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "4",
+	"Name": "S5_STA04A_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "4",
+	"Name": "CH_JUM04B_Random11",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "4",
+	"Name": "CH_JUM04B_Random12",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "4",
+	"Name": "CH_JUM04B_Random13",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "3",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "4",
+	"Name": "S1_JUM04C_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special6",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "2",
+	"DeadRequireMin": "1",
+	"Difficulty": "4",
+	"Name": "S6_RWR04G_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Special6",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "2",
+	"DeadRequireMin": "1",
+	"Difficulty": "4",
+	"Name": "S6_STA04F_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Special6",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "2",
+	"DeadRequireMin": "1",
+	"Difficulty": "4",
+	"Name": "S6_SWI04A_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "4",
+	"Name": "S1_JUM04D_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "4",
+	"Name": "S1_JUM04E_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special7",
+	"ChallengePoint": "3",
+	"DeadRequireMax": "4",
+	"DeadRequireMin": "3",
+	"Difficulty": "4",
+	"Name": "S7_JUM04C_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special7",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "4",
+	"DeadRequireMin": "3",
+	"Difficulty": "4",
+	"Name": "S7_STA04F_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "4",
+	"Name": "CH_JUM04D_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special7",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "4",
+	"DeadRequireMin": "3",
+	"Difficulty": "4",
+	"Name": "S7_SWI04G_Random11",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "4",
+	"Name": "CH_JUM04G_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "4",
+	"Name": "S1_STA04B_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Special8",
+	"ChallengePoint": "3",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "4",
+	"Name": "S8_JUM04C_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special8",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "4",
+	"Name": "S8_JUM04G_Random02",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special8",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "4",
+	"Name": "S8_STA04F_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "4",
+	"Name": "CH_JUM04G_Random02",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special9",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "4",
+	"Name": "S9_STA04G_Random11",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Special9",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "4",
+	"Name": "S9_SWI04G_Random11",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "4",
+	"Name": "S1_SWI04G_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Special10",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "8",
+	"DeadRequireMin": "7",
+	"Difficulty": "4",
+	"Name": "SS_STA04G_Random11",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Special10",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "8",
+	"DeadRequireMin": "7",
+	"Difficulty": "4",
+	"Name": "SS_SWI04G_Random11",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_SWI05G_Random02",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_SWI05G_Random03",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "5",
+	"Name": "S3_STA05B_Random02",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_TIM05D_Random01",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "5",
+	"Name": "S3_SWI05E_Random02",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_FRE05F_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_FAR05A_Random02",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Special4",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "5",
+	"Name": "S4_FAR05G_Random01",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_FAR05G_Random01",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_FAR05G_Random02",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Special4",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "5",
+	"Name": "S4_STA05B_Random02",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_FAR05A_Random01",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_RWR05B_Random02",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Special4",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "5",
+	"Name": "S4_SWI05E_Random02",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_RWR05G_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "5",
+	"Name": "S1_JUM05B_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "5",
+	"Name": "S1_JUM05D_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_RWR05G_Random03",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "3",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_SAV05C_Random01",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Special5",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "5",
+	"Name": "S5_STA05B_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_SAV05E_Random01",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Special5",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "5",
+	"Name": "S5_SWI05G_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_SAV05F_Random01",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "5",
+	"Name": "S1_SWI05E_Random02",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Special6",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "2",
+	"DeadRequireMin": "1",
+	"Difficulty": "5",
+	"Name": "S6_JUM05B_Random13",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special6",
+	"ChallengePoint": "3",
+	"DeadRequireMax": "2",
+	"DeadRequireMin": "1",
+	"Difficulty": "5",
+	"Name": "S6_SAV05C_Random01",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_JUM05B_Random02",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_JUM05B_Random03",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special6",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "2",
+	"DeadRequireMin": "1",
+	"Difficulty": "5",
+	"Name": "S6_SWI05G_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_STA05A_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_STA05B_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "5",
+	"Name": "S2_JUM05B_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special7",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "4",
+	"DeadRequireMin": "3",
+	"Difficulty": "5",
+	"Name": "S7_JUM05B_Random11",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "5",
+	"Name": "S2_JUM05D_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_STA05B_Random02",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "5",
+	"Name": "S2_RWR05B_Random02",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_JUM05B_Random11",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_JUM05B_Random12",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_JUM05B_Random13",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "5",
+	"Name": "S2_SWI05E_Random02",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Special8",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "5",
+	"Name": "S8_JUM05B_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "5",
+	"Name": "S3_FAR05G_Random01",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Special8",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "5",
+	"Name": "S8_STA05D_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Special8",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "5",
+	"Name": "S8_SWI05G_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_JUM05D_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special9",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "5",
+	"Name": "S9_JUM05D_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special9",
+	"ChallengePoint": "3",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "5",
+	"Name": "S9_SAV05C_Random01",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_JUM05G_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special9",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "5",
+	"Name": "S9_SWI05G_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_SWI05E_Random02",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Special10",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "8",
+	"DeadRequireMin": "7",
+	"Difficulty": "5",
+	"Name": "SS_FRE05F_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special10",
+	"ChallengePoint": "3",
+	"DeadRequireMax": "8",
+	"DeadRequireMin": "7",
+	"Difficulty": "5",
+	"Name": "SS_SAV05C_Random01",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "5",
+	"Name": "CH_SWI05G_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "5",
+	"Name": "S3_JUM05D_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special10",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "8",
+	"DeadRequireMin": "7",
+	"Difficulty": "5",
+	"Name": "SS_SWI05G_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "3",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_STA06C_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_STA06D_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_STA06F_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "6",
+	"Name": "S3_SAV06B_Random01",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "3",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_NOJ06C_Random01",
+	"Pattern": "2"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_NOJ06D_Random01",
+	"Pattern": "2"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_NOJ06E_Random01",
+	"Pattern": "2"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "6",
+	"Name": "S3_SWI06D_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "6",
+	"Name": "S3_TIM06E_Random01",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_FRE06A_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special4",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "6",
+	"Name": "S4_SAV06B_Random01",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Special4",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "6",
+	"Name": "S4_SAV06D_Random01",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_RHY06B_Random01",
+	"Pattern": "10"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_RHY06D_Random01",
+	"Pattern": "10"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_RHY06G_Random01",
+	"Pattern": "10"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_SWI06A_Random03",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "3",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_SWI06C_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Special4",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "6",
+	"Name": "S4_TIM06E_Random01",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_SWI06D_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_SWI06D_Random02",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_SWI06E_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Special5",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "6",
+	"Name": "S5_JUM06E_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_SWI06G_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Special5",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "6",
+	"Name": "S5_RWR06G_Random02",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "3",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_FRE06C_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_FRE06D_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_TIM06B_Random01",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_FRE06E_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special5",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "6",
+	"Name": "S5_TIM06D_Random01",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_FRE06F_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_FRE06G_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_FAR06A_Random11",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_RWR06A_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Special6",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "2",
+	"DeadRequireMin": "1",
+	"Difficulty": "6",
+	"Name": "S6_JUM06E_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_RWR06B_Random02",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "3",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_RWR06C_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Special6",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "2",
+	"DeadRequireMin": "1",
+	"Difficulty": "6",
+	"Name": "S6_TIM06D_Random01",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_RWR06G_Random02",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "6",
+	"Name": "S1_SAV06B_Random01",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "6",
+	"Name": "S1_SAV06D_Random01",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_RWR06G_Random03",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Special7",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "4",
+	"DeadRequireMin": "3",
+	"Difficulty": "6",
+	"Name": "S7_JUM06D_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_JUM06B_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special7",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "4",
+	"DeadRequireMin": "3",
+	"Difficulty": "6",
+	"Name": "S7_RWR06G_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_JUM06B_Random02",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_JUM06B_Random11",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "6",
+	"Name": "S1_TIM06E_Random01",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_JUM06B_Random12",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special7",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "4",
+	"DeadRequireMin": "3",
+	"Difficulty": "6",
+	"Name": "S7_TIM06B_Random01",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_SAV06B_Random02",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "3",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_SAV06C_Random02",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_SAV06D_Random01",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Special8",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "6",
+	"Name": "S8_JUM06E_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special8",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "6",
+	"Name": "S8_SAV06F_Random01",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_SAV06F_Random01",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Special8",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "6",
+	"Name": "S8_SWI06B_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "6",
+	"Name": "S2_SAV06B_Random01",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "6",
+	"Name": "S2_SAV06D_Random01",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Special9",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "6",
+	"Name": "S9_JUM06E_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_SAV06G_Random03",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Special9",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "6",
+	"Name": "S9_SAV06B_Random01",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_JUM06B_Random13",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "3",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_JUM06C_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_JUM06D_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special9",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "6",
+	"Name": "S9_TIM06D_Random01",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "6",
+	"Name": "S2_TIM06E_Random01",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_JUM06E_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special10",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "8",
+	"DeadRequireMin": "7",
+	"Difficulty": "6",
+	"Name": "SS_JUM06B_Random12",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special10",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "8",
+	"DeadRequireMin": "7",
+	"Difficulty": "6",
+	"Name": "SS_JUM06E_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_JUM06G_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_STA06A_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "6",
+	"Name": "CH_STA06B_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Special10",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "8",
+	"DeadRequireMin": "7",
+	"Difficulty": "6",
+	"Name": "SS_TIM06D_Random01",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Special6",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "2",
+	"DeadRequireMin": "1",
+	"Difficulty": "7",
+	"Name": "S6_NOJ07D_Random02",
+	"Pattern": "2"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "7",
+	"Name": "S3_RHY07G_Random01",
+	"Pattern": "10"
+},
+{
+	"Challenge": "Special6",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "2",
+	"DeadRequireMin": "1",
+	"Difficulty": "7",
+	"Name": "S6_RWR07E_Random02",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "7",
+	"Name": "S1_RHY07G_Random01",
+	"Pattern": "10"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_JUM07D_Random02",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_JUM07D_Random03",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_JUM07D_Random04",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "7",
+	"Name": "S3_STA07A_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "7",
+	"Name": "S1_STA07A_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_JUM07B_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_JUM07B_Random02",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_SAV07D_Random01",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_SAV07D_Random02",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Special7",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "4",
+	"DeadRequireMin": "3",
+	"Difficulty": "7",
+	"Name": "S7_JUM07B_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "7",
+	"Name": "S1_TIM07G_Random01",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_SAV07D_Random03",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Special7",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "4",
+	"DeadRequireMin": "3",
+	"Difficulty": "7",
+	"Name": "S7_RWR07A_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Special4",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "7",
+	"Name": "S4_RWR07B_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Special4",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "7",
+	"Name": "S4_RWR07G_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_SAV07D_Random04",
+	"Pattern": "3"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_RHY07G_Random01",
+	"Pattern": "10"
+},
+{
+	"Challenge": "Special7",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "4",
+	"DeadRequireMin": "3",
+	"Difficulty": "7",
+	"Name": "S7_SWI07E_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_RWR07B_Random02",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_RWR07B_Random03",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_SWI07B_Random02",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Special4",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "7",
+	"Name": "S4_STA07A_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_SWI07G_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_RWR07B_Random05",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "7",
+	"Name": "S2_RHY07G_Random01",
+	"Pattern": "10"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_RWR07D_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_RWR07D_Random02",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_RWR07D_Random03",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_TIM07B_Random01",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "7",
+	"Name": "S2_STA07A_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Special8",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "7",
+	"Name": "S8_SWI07E_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Special8",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "7",
+	"Name": "S8_SWI07G_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Special8",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "7",
+	"Name": "S8_TIM07D_Random01",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Special5",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "7",
+	"Name": "S5_JUM07B_Random02",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special5",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "7",
+	"Name": "S5_JUM07E_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special5",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "7",
+	"Name": "S5_NOJ07D_Random02",
+	"Pattern": "2"
+},
+{
+	"Challenge": "Special9",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "7",
+	"Name": "S9_JUM07B_Random13",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special9",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "7",
+	"Name": "S9_JUM07D_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special9",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "7",
+	"Name": "S9_RHY07G_Random01",
+	"Pattern": "10"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_TIM07G_Random01",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_RWR07D_Random05",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_RWR07G_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_JUM07B_Random03",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "7",
+	"Name": "S2_TIM07G_Random01",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_JUM07B_Random04",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_JUM07B_Random13",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_STA07A_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_JUM07D_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_NOJ07D_Random01",
+	"Pattern": "2"
+},
+{
+	"Challenge": "Special10",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "8",
+	"DeadRequireMin": "7",
+	"Difficulty": "7",
+	"Name": "SS_JUM07B_Random13",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special10",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "8",
+	"DeadRequireMin": "7",
+	"Difficulty": "7",
+	"Name": "SS_JUM07D_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special10",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "8",
+	"DeadRequireMin": "7",
+	"Difficulty": "7",
+	"Name": "SS_RHY07G_Random01",
+	"Pattern": "10"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_NOJ07D_Random02",
+	"Pattern": "2"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_NOJ07D_Random03",
+	"Pattern": "2"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "7",
+	"Name": "S3_JUM07B_Random02",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "7",
+	"Name": "CH_NOJ07D_Random04",
+	"Pattern": "2"
+},
+{
+	"Challenge": "Special6",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "2",
+	"DeadRequireMin": "1",
+	"Difficulty": "7",
+	"Name": "S6_JUM07B_Random13",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special7",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "4",
+	"DeadRequireMin": "3",
+	"Difficulty": "8",
+	"Name": "S7_FRE08E_Random02",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_JUM08D_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_JUM08D_Random02",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_JUM08F_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special4",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "8",
+	"Name": "S4_FRE08F_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_JUM08F_Random02",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special7",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "4",
+	"DeadRequireMin": "3",
+	"Difficulty": "8",
+	"Name": "S7_JUM08D_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_JUM08G_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_JUM08G_Random02",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_FRE08E_Random02",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "8",
+	"Name": "S2_FRE08F_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_FRE08F_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_FRE08F_Random02",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_FRE08G_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_FRE08G_Random02",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_SWI08B_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_SWI08G_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Special4",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "8",
+	"Name": "S4_SWI08G_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_SWI08G_Random02",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "8",
+	"Name": "S2_RWR08A_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_FAR08A_Random02",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_FAR08A_Random03",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Special8",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "8",
+	"Name": "S8_JUM08B_Random02",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special8",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "8",
+	"Name": "S8_JUM08D_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_FAR08A_Random04",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_FAR08A_Random01",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_FRE08D_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special5",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "8",
+	"Name": "S5_JUM08B_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special5",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "8",
+	"Name": "S5_JUM08D_Random02",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_NOJ08A_Random01",
+	"Pattern": "2"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_TIM08B_Random01",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_TIM08B_Random02",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_TIM08B_Random03",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Special9",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "8",
+	"Name": "S9_FRE08E_Random02",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_NOJ08A_Random02",
+	"Pattern": "2"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "8",
+	"Name": "S3_FAR08A_Random03",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_FRE08D_Random02",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_FRE08E_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "8",
+	"Name": "S1_FRE08F_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special9",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "8",
+	"Name": "S9_RWR08G_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_JUM08B_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_RWR08A_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_RWR08A_Random02",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Special6",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "2",
+	"DeadRequireMin": "1",
+	"Difficulty": "8",
+	"Name": "S6_FRE08D_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_RWR08B_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "8",
+	"Name": "S3_JUM08F_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_RWR08B_Random02",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "3",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_RWR08C_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Special10",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "8",
+	"DeadRequireMin": "7",
+	"Difficulty": "8",
+	"Name": "SS_FRE08E_Random02",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special6",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "2",
+	"DeadRequireMin": "1",
+	"Difficulty": "8",
+	"Name": "S6_JUM08B_Random02",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "3",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_RWR08C_Random02",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_RWR08G_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_RWR08G_Random02",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "8",
+	"Name": "S1_RWR08A_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Special10",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "8",
+	"DeadRequireMin": "7",
+	"Difficulty": "8",
+	"Name": "SS_RWR08G_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_RWR08G_Random03",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_JUM08B_Random02",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_JUM08B_Random03",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "3",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_JUM08C_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "3",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "8",
+	"Name": "CH_JUM08C_Random02",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "9",
+	"Name": "CH_JUM09G_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special8",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "9",
+	"Name": "S8_TIM09B_Random02",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "9",
+	"Name": "CH_FRE09D_Random02",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "9",
+	"Name": "CH_SWI09B_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Special9",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "9",
+	"Name": "S9_FRE09G_Random02",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "9",
+	"Name": "CH_SWI09B_Random02",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "9",
+	"Name": "CH_SWI09G_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "9",
+	"Name": "CH_FRE09E_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "9",
+	"Name": "S2_JUM09G_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special9",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "9",
+	"Name": "S9_JUM09B_Random02",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "9",
+	"Name": "S3_JUM09G_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special6",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "2",
+	"DeadRequireMin": "1",
+	"Difficulty": "9",
+	"Name": "S6_FRE09G_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "9",
+	"Name": "S1_JUM09G_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "9",
+	"Name": "CH_FRE09F_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "6",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "9",
+	"Name": "CH_FRE09F_Random02",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special7",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "4",
+	"DeadRequireMin": "3",
+	"Difficulty": "9",
+	"Name": "S7_TIM09B_Random02",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "9",
+	"Name": "CH_FRE09G_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special8",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "9",
+	"Name": "S8_FRE09G_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "9",
+	"Name": "CH_FRE09G_Random02",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "9",
+	"Name": "CH_FAR09A_Random02",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Special5",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "9",
+	"Name": "S5_FRE09G_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special10",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "8",
+	"DeadRequireMin": "7",
+	"Difficulty": "9",
+	"Name": "SS_FRE09G_Random02",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "9",
+	"Name": "CH_FAR09A_Random01",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "9",
+	"Name": "CH_RWR09A_Random01",
+	"Pattern": "5"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "9",
+	"Name": "CH_FRE09D_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "9",
+	"Name": "CH_TIM09B_Random01",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "9",
+	"Name": "CH_TIM09B_Random02",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "9",
+	"Name": "CH_TIM09B_Random03",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "9",
+	"Name": "CH_JUM09B_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "9",
+	"Name": "CH_JUM09B_Random02",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "4",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "9",
+	"Name": "CH_JUM09D_Random02",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special4",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "9",
+	"Name": "S4_JUM09G_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special10",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "8",
+	"DeadRequireMin": "7",
+	"Difficulty": "9",
+	"Name": "SS_SWI09B_Random01",
+	"Pattern": "4"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "9",
+	"Name": "CH_NOJ09B_Random01",
+	"Pattern": "2"
+},
+{
+	"Challenge": "Special9",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "10",
+	"Name": "S9_TIM10B_Random01",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "10",
+	"Name": "CH_TIM10B_Random01",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Special1",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "10",
+	"Name": "S1_JUM10G_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "10",
+	"Name": "CH_TIM10B_Random02",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Special8",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "10",
+	"Name": "S8_JUM10B_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special8",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "10",
+	"Name": "S8_JUM10G_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special4",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "10",
+	"Name": "S4_JUM10G_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special6",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "2",
+	"DeadRequireMin": "1",
+	"Difficulty": "10",
+	"Name": "S6_JUM10G_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special9",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "6",
+	"DeadRequireMin": "5",
+	"Difficulty": "10",
+	"Name": "S9_JUM10G_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special10",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "8",
+	"DeadRequireMin": "7",
+	"Difficulty": "10",
+	"Name": "SS_JUM10G_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special2",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "10",
+	"Name": "S2_JUM10G_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special3",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "10",
+	"Name": "S3_JUM10G_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Special5",
+	"ChallengePoint": "7",
+	"DeadRequireMax": "0",
+	"DeadRequireMin": "0",
+	"Difficulty": "10",
+	"Name": "S5_JUM10G_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "10",
+	"Name": "CH_STA10B_Random01",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Special7",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "4",
+	"DeadRequireMin": "3",
+	"Difficulty": "10",
+	"Name": "S7_JUM10B_Random01",
+	"Pattern": "1"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "10",
+	"Name": "CH_STA10B_Random02",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "10",
+	"Name": "CH_STA10B_Random03",
+	"Pattern": "6"
+},
+{
+	"Challenge": "Challenge",
+	"ChallengePoint": "5",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "9",
+	"Difficulty": "10",
+	"Name": "CH_FRE10E_Random01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Special10",
+	"ChallengePoint": "2",
+	"DeadRequireMax": "8",
+	"DeadRequireMin": "7",
+	"Difficulty": "10",
+	"Name": "SS_TIM10B_Random01",
+	"Pattern": "9"
+},
+{
+	"Challenge": "Portal",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "0",
+	"Difficulty": "1",
+	"Name": "PT_FRE01A_Portal01",
+	"Pattern": "8"
+},
+{
+	"Challenge": "Wow",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "0",
+	"Difficulty": "1",
+	"Name": "WO_FAR01A_01",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Wow",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "0",
+	"Difficulty": "1",
+	"Name": "WO_FAR01A_02",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Wow",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "0",
+	"Difficulty": "1",
+	"Name": "WO_FAR01A_03",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Wow",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "0",
+	"Difficulty": "1",
+	"Name": "WO_FAR01A_ShapeAlienHead01",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Wow",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "0",
+	"Difficulty": "1",
+	"Name": "WO_FAR01A_ShapeAlienHead02",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Wow",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "0",
+	"Difficulty": "1",
+	"Name": "WO_FAR01A_ShapeArrow",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Wow",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "0",
+	"Difficulty": "1",
+	"Name": "WO_FAR01A_ShapeCone",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Wow",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "0",
+	"Difficulty": "1",
+	"Name": "WO_FAR01A_ShapeEye",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Wow",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "0",
+	"Difficulty": "1",
+	"Name": "WO_FAR01A_ShapeLightning",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Wow",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "0",
+	"Difficulty": "1",
+	"Name": "WO_FAR01A_ShapeTriangles",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Wow",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "0",
+	"Difficulty": "1",
+	"Name": "WO_FAR01A_TextAlien",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Wow",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "0",
+	"Difficulty": "1",
+	"Name": "WO_FAR01A_TextG",
+	"Pattern": "7"
+},
+{
+	"Challenge": "Wow",
+	"ChallengePoint": "1",
+	"DeadRequireMax": "999999999",
+	"DeadRequireMin": "0",
+	"Difficulty": "1",
+	"Name": "WO_FAR01A_TextGo",
+	"Pattern": "7"
+}]
